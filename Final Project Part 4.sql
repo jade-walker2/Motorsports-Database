@@ -1,3 +1,4 @@
+-- This is a test change YEET!
 -- Select the machines that have a price higher than 10,000 make the list ascending.
 USE mydb;
 SELECT brand, price
